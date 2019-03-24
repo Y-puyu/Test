@@ -1,0 +1,46 @@
+﻿  test.cpp
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(123): error C3646: “_mtx”: 未知重写说明符
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(123): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(98): error C2065: “_mtx”: 未声明的标识符
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(102): error C2065: “_mtx”: 未声明的标识符
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(128): error C2039: “_mtx”: 不是“Singleton”的成员
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(128): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(128): error C2146: 语法错误: 缺少“;”(在标识符“_mtx”的前面)
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(139): error C2011: “Singleton”:“class”类型重定义
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(177): error C2027: 使用了未定义类型“Singleton”
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(178): error C2027: 使用了未定义类型“Singleton”
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(178): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(178): error C2146: 语法错误: 缺少“;”(在标识符“Garbo”的前面)
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(179): error C2872: “mutex”: 不明确的符号
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(128): note: 可能是“int mutex”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\mutex(82): note: 或    “std::mutex”
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(179): error C2027: 使用了未定义类型“Singleton”
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(179): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(179): error C2086: “int mutex”: 重定义
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(128): note: 参见“mutex”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(179): error C2146: 语法错误: 缺少“;”(在标识符“m_mtx”的前面)
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(183): error C2027: 使用了未定义类型“Singleton”
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(183): error C3861: “GetInstance”: 找不到标识符
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(195): error C2027: 使用了未定义类型“Singleton”
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(195): error C3861: “GetInstance”: 找不到标识符
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(196): error C2027: 使用了未定义类型“Singleton”
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(196): error C3861: “GetInstance”: 找不到标识符
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(211): error C3861: “Func”: 找不到标识符
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(224): error C2027: 使用了未定义类型“Singleton”
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(224): error C3861: “getInstance”: 找不到标识符
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(232): error C2084: 函数“int main(void)”已有主体
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(187): note: 参见“main”的前一个定义
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(243): error C2027: 使用了未定义类型“Singleton”
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(243): error C3861: “GetInstance”: 找不到标识符
+f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(244): warning C4150: 删除指向不完整“Singleton”类型的指针；没有调用析构函数
+  f:\比特项目\c++上课\c++ 20190321\c++ 20190321\test.cpp(91): note: 参见“Singleton”的声明

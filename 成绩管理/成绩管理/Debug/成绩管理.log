@@ -1,0 +1,7 @@
+﻿  test.cpp
+c:\users\haier\source\repos\成绩管理\成绩管理\test.cpp(53): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\haier\source\repos\成绩管理\成绩管理\test.cpp(295): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\haier\source\repos\成绩管理\成绩管理\test.cpp(460): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\haier\source\repos\成绩管理\成绩管理\test.cpp(528): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\haier\source\repos\成绩管理\成绩管理\test.cpp(702): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  成绩管理.vcxproj -> C:\Users\HAIER\source\repos\成绩管理\Debug\成绩管理.exe

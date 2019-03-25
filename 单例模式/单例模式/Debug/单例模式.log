@@ -1,0 +1,12 @@
+﻿  test.cpp
+d:\aaa  test\test\单例模式\单例模式\test.cpp(129): error C3646: “_mtx”: 未知重写说明符
+d:\aaa  test\test\单例模式\单例模式\test.cpp(129): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\aaa  test\test\单例模式\单例模式\test.cpp(98): error C2065: “_mtx”: 未声明的标识符
+d:\aaa  test\test\单例模式\单例模式\test.cpp(102): error C2065: “_mtx”: 未声明的标识符
+d:\aaa  test\test\单例模式\单例模式\test.cpp(134): error C2039: “_mtx”: 不是“Singleton”的成员
+  d:\aaa  test\test\单例模式\单例模式\test.cpp(91): note: 参见“Singleton”的声明
+d:\aaa  test\test\单例模式\单例模式\test.cpp(134): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\aaa  test\test\单例模式\单例模式\test.cpp(134): error C2146: 语法错误: 缺少“;”(在标识符“_mtx”的前面)
+d:\aaa  test\test\单例模式\单例模式\test.cpp(249): error C2039: “GetInstance”: 不是“Singleton”的成员
+  d:\aaa  test\test\单例模式\单例模式\test.cpp(91): note: 参见“Singleton”的声明
+d:\aaa  test\test\单例模式\单例模式\test.cpp(249): error C3861: “GetInstance”: 找不到标识符

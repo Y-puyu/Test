@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "辗转相除法", "辗转相除法\辗转相除法.vcxproj", "{DD76FBE7-AF13-4A4B-9B9E-DE2933406733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD76FBE7-AF13-4A4B-9B9E-DE2933406733}.Debug|x64.ActiveCfg = Debug|x64
+		{DD76FBE7-AF13-4A4B-9B9E-DE2933406733}.Debug|x64.Build.0 = Debug|x64
+		{DD76FBE7-AF13-4A4B-9B9E-DE2933406733}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD76FBE7-AF13-4A4B-9B9E-DE2933406733}.Debug|x86.Build.0 = Debug|Win32
+		{DD76FBE7-AF13-4A4B-9B9E-DE2933406733}.Release|x64.ActiveCfg = Release|x64
+		{DD76FBE7-AF13-4A4B-9B9E-DE2933406733}.Release|x64.Build.0 = Release|x64
+		{DD76FBE7-AF13-4A4B-9B9E-DE2933406733}.Release|x86.ActiveCfg = Release|Win32
+		{DD76FBE7-AF13-4A4B-9B9E-DE2933406733}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12AC0E54-DA3A-4552-B738-7F6D4A629A0D}
+	EndGlobalSection
+EndGlobal

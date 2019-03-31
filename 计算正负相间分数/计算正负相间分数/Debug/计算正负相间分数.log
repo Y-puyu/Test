@@ -1,0 +1,3 @@
+﻿  test.c
+d:\aaa  test\test\计算正负相间分数\计算正负相间分数\test.c(10): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  计算正负相间分数.vcxproj -> D:\AAA  Test\Test\计算正负相间分数\Debug\计算正负相间分数.exe
